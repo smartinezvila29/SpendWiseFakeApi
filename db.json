@@ -1,0 +1,315 @@
+{"GetAllCryptoCurrencies":[
+	{
+	"from_CurrencyCode": "BTC",
+	"from_CurrencyName": "Bitcoin",
+	"to_CurrencyCode": "USD",
+	"to_CurrencyName": "United States Dollar",
+	"exchangeRate": "36402.00000000",
+	"lastRefreshed": "2023-11-18 13:14:01",
+	"bidPrice": "36401.99000000",
+	"askPrice": "36402.00000000"
+	},
+	{
+	"from_CurrencyCode": "ETH",
+	"from_CurrencyName": "Ethereum",
+	"to_CurrencyCode": "USD",
+	"to_CurrencyName": "United States Dollar",
+	"exchangeRate": "1936.60000000",
+	"lastRefreshed": "2023-11-18 13:14:01",
+	"bidPrice": "1936.59000000",
+	"askPrice": "1936.60000000"
+	},
+	{
+	"from_CurrencyCode": "BNB",
+	"from_CurrencyName": "Binance-Coin",
+	"to_CurrencyCode": "USD",
+	"to_CurrencyName": "United States Dollar",
+	"exchangeRate": "242.50000000",
+	"lastRefreshed": "2023-11-18 13:14:03",
+	"bidPrice": "242.40000000",
+	"askPrice": "242.50000000"
+	},
+	{
+	"from_CurrencyCode": "XRP",
+	"from_CurrencyName": "Ripple",
+	"to_CurrencyCode": "USD",
+	"to_CurrencyName": "United States Dollar",
+	"exchangeRate": "0.60220000",
+	"lastRefreshed": "2023-11-18 13:14:01",
+	"bidPrice": "0.60210000",
+	"askPrice": "0.60220000"
+	},
+	{
+	"from_CurrencyCode": "SOL",
+	"from_CurrencyName": "Solana",
+	"to_CurrencyCode": "USD",
+	"to_CurrencyName": "United States Dollar",
+	"exchangeRate": "56.35000000",
+	"lastRefreshed": "2023-11-18 13:14:10",
+	"bidPrice": "56.36000000",
+	"askPrice": "56.37000000"
+	},
+	{
+	"from_CurrencyCode": "ADA",
+	"from_CurrencyName": "Cardano",
+	"to_CurrencyCode": "USD",
+	"to_CurrencyName": "United States Dollar",
+	"exchangeRate": "0.35850000",
+	"lastRefreshed": "2023-11-18 13:14:12",
+	"bidPrice": "0.35850000",
+	"askPrice": "0.35860000"
+	},
+	{
+	"from_CurrencyCode": "TRX",
+	"from_CurrencyName": "Tronix",
+	"to_CurrencyCode": "USD",
+	"to_CurrencyName": "United States Dollar",
+	"exchangeRate": "0.10214000",
+	"lastRefreshed": "2023-11-18 13:14:09",
+	"bidPrice": "0.10213000",
+	"askPrice": "0.10214000"
+	},
+	{
+	"from_CurrencyCode": "MATIC",
+	"from_CurrencyName": "Polygon",
+	"to_CurrencyCode": "USD",
+	"to_CurrencyName": "United States Dollar",
+	"exchangeRate": "0.80300000",
+	"lastRefreshed": "2023-11-18 13:14:06",
+	"bidPrice": "0.80300000",
+	"askPrice": "0.80310000"
+	},
+	{
+	"from_CurrencyCode": "LINK",
+	"from_CurrencyName": "ChainLink",
+	"to_CurrencyCode": "USD",
+	"to_CurrencyName": "United States Dollar",
+	"exchangeRate": "13.24300000",
+	"lastRefreshed": "2023-11-18 13:14:21",
+	"bidPrice": "13.24200000",
+	"askPrice": "13.24300000"
+	},
+	{
+	"from_CurrencyCode": "DOT",
+	"from_CurrencyName": "Polkadot",
+	"to_CurrencyCode": "USD",
+	"to_CurrencyName": "United States Dollar",
+	"exchangeRate": "5.11900000",
+	"lastRefreshed": "2023-11-18 13:14:21",
+	"bidPrice": "5.11900000",
+	"askPrice": "5.12000000"
+	},
+	{
+	"from_CurrencyCode": "BTC",
+	"from_CurrencyName": "Bitcoin",
+	"to_CurrencyCode": "EUR",
+	"to_CurrencyName": "Euro",
+	"exchangeRate": "33351.93785190",
+	"lastRefreshed": "2023-11-18 13:14:59",
+	"bidPrice": "33351.92869200",
+	"askPrice": "33351.93785190"
+	},
+	{
+	"from_CurrencyCode": "ETH",
+	"from_CurrencyName": "Ethereum",
+	"to_CurrencyCode": "EUR",
+	"to_CurrencyName": "Euro",
+	"exchangeRate": "1773.88791420",
+	"lastRefreshed": "2023-11-18 13:15:00",
+	"bidPrice": "1773.87875430",
+	"askPrice": "1773.88791420"
+	},
+	{
+	"from_CurrencyCode": "BNB",
+	"from_CurrencyName": "Binance-Coin",
+	"to_CurrencyCode": "EUR",
+	"to_CurrencyName": "Euro",
+	"exchangeRate": "222.12757500",
+	"lastRefreshed": "2023-11-18 13:15:00",
+	"bidPrice": "222.03597600",
+	"askPrice": "222.12757500"
+	},
+	{
+	"from_CurrencyCode": "XRP",
+	"from_CurrencyName": "Ripple",
+	"to_CurrencyCode": "EUR",
+	"to_CurrencyName": "Euro",
+	"exchangeRate": "0.55160918",
+	"lastRefreshed": "2023-11-18 13:15:00",
+	"bidPrice": "0.55151758",
+	"askPrice": "0.55160918"
+	},
+	{
+	"from_CurrencyCode": "SOL",
+	"from_CurrencyName": "Solana",
+	"to_CurrencyCode": "EUR",
+	"to_CurrencyName": "Euro",
+	"exchangeRate": "51.67099590",
+	"lastRefreshed": "2023-11-18 13:15:00",
+	"bidPrice": "51.66183600",
+	"askPrice": "51.67099590"
+	},
+	{
+	"from_CurrencyCode": "ADA",
+	"from_CurrencyName": "Cardano",
+	"to_CurrencyCode": "EUR",
+	"to_CurrencyName": "Euro",
+	"exchangeRate": "0.32810762",
+	"lastRefreshed": "2023-11-18 13:14:59",
+	"bidPrice": "0.32801602",
+	"askPrice": "0.32810762"
+	},
+	{
+	"from_CurrencyCode": "TRX",
+	"from_CurrencyName": "Tronix",
+	"to_CurrencyCode": "EUR",
+	"to_CurrencyName": "Euro",
+	"exchangeRate": "0.09355922",
+	"lastRefreshed": "2023-11-18 13:14:59",
+	"bidPrice": "0.09355006",
+	"askPrice": "0.09355922"
+	},
+	{
+	"from_CurrencyCode": "MATIC",
+	"from_CurrencyName": "Polygon",
+	"to_CurrencyCode": "EUR",
+	"to_CurrencyName": "Euro",
+	"exchangeRate": "0.73581477",
+	"lastRefreshed": "2023-11-18 13:14:59",
+	"bidPrice": "0.73581477",
+	"askPrice": "0.73590637"
+	},
+	{
+	"from_CurrencyCode": "LINK",
+	"from_CurrencyName": "ChainLink",
+	"to_CurrencyCode": "EUR",
+	"to_CurrencyName": "Euro",
+	"exchangeRate": "12.13045557",
+	"lastRefreshed": "2023-11-18 13:14:59",
+	"bidPrice": "12.12953958",
+	"askPrice": "12.13045557"
+	},
+	{
+	"from_CurrencyCode": "DOT",
+	"from_CurrencyName": "Polkadot",
+	"to_CurrencyCode": "EUR",
+	"to_CurrencyName": "Euro",
+	"exchangeRate": "4.68986880",
+	"lastRefreshed": "2023-11-18 13:14:59",
+	"bidPrice": "4.68895281",
+	"askPrice": "4.68986880"
+	}
+	]
+},
+{"GetUserSummary":{
+	  "userId": 1,
+	  "incomes": 1600,
+	  "expenses": -210,
+	  "balance": 1390,
+	  "movements": [
+		{
+		  "id": 1,
+		  "movementType": "Income",
+		  "amount": 1600,
+		  "notes": "Nomina",
+		  "dateTimeMovement": "2023-11-14T19:20:09.3325276",
+		  "categoryId": 7,
+		  "walletId": 1
+		},
+		{
+		  "id": 3,
+		  "movementType": "Expense",
+		  "amount": 40,
+		  "notes": "Cena",
+		  "dateTimeMovement": "2023-11-14T19:20:09.3325312",
+		  "categoryId": 2,
+		  "walletId": 1
+		},
+		{
+		  "id": 4,
+		  "movementType": "Expense",
+		  "amount": 120,
+		  "notes": "Coche",
+		  "dateTimeMovement": "2023-11-14T19:20:09.3325314",
+		  "categoryId": 8,
+		  "walletId": 1
+		},
+		{
+		  "id": 7,
+		  "movementType": "Expense",
+		  "amount": 50,
+		  "notes": "Tren",
+		  "dateTimeMovement": "2023-11-14T19:20:09.3325319",
+		  "categoryId": 4,
+		  "walletId": 1
+		}
+	  ]
+	}
+},
+{"GetCategories":[
+  {
+    "categoryId": 1,
+    "name": "House"
+  },
+  {
+    "categoryId": 2,
+    "name": "Food"
+  },
+  {
+    "categoryId": 3,
+    "name": "Health"
+  },
+  {
+    "categoryId": 4,
+    "name": "Transport"
+  },
+  {
+    "categoryId": 5,
+    "name": "Savings"
+  },
+  {
+    "categoryId": 6,
+    "name": "Deposits"
+  },
+  {
+    "categoryId": 7,
+    "name": "Salary"
+  },
+  {
+    "categoryId": 8,
+    "name": "Car"
+  }
+]
+},
+{"GetAllCurrencies":[
+  {
+    "currencyId": 1,
+    "name": "Euro",
+    "isoCode": "EUR",
+    "symbol": "€"
+  },
+  {
+    "currencyId": 2,
+    "name": "US Dollar",
+    "isoCode": "USD",
+    "symbol": "$"
+  },
+  {
+    "currencyId": 3,
+    "name": "Pound Sterling",
+    "isoCode": "GBP",
+    "symbol": "£"
+  },
+  {
+    "currencyId": 4,
+    "name": "Bitcoin",
+    "isoCode": "XBT",
+    "symbol": "₿"
+  },
+  {
+    "currencyId": 5,
+    "name": "Ethereum",
+    "isoCode": "ETH",
+    "symbol": "Ξ"
+  }
+]
