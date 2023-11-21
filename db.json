@@ -241,7 +241,7 @@
 				"categoryId": 4,
 				"walletId": 1
 			}
-		],
+		]},
 	"GetCategories": [{
 			"categoryId": 1,
 			"name": "House"
@@ -307,4 +307,3 @@
 		}
 	]
   }
-}
